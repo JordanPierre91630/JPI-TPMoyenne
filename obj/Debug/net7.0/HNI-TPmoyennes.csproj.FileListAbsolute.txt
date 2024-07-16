@@ -1,0 +1,14 @@
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\HNI-TPmoyennes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\HNI-TPmoyennes.AssemblyInfoInputs.cache
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\HNI-TPmoyennes.AssemblyInfo.cs
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\HNI-TPmoyennes.csproj.CoreCompileInputs.cache
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\bin\Debug\net7.0\HNI-TPmoyennes.exe
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\bin\Debug\net7.0\HNI-TPmoyennes.deps.json
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\bin\Debug\net7.0\HNI-TPmoyennes.runtimeconfig.json
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\bin\Debug\net7.0\HNI-TPmoyennes.dll
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\bin\Debug\net7.0\HNI-TPmoyennes.pdb
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\HNI-TPmoyennes.dll
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\refint\HNI-TPmoyennes.dll
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\HNI-TPmoyennes.pdb
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\HNI-TPmoyennes.genruntimeconfig.cache
+C:\Users\Formation\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\ref\HNI-TPmoyennes.dll

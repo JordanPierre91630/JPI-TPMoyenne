@@ -1,0 +1,14 @@
+C:\Users\Formation\Source\Repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\bin\Debug\net7.0\JPI-TPMoyenne.exe
+C:\Users\Formation\source\repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\bin\Debug\net7.0\JPI-TPMoyenne.deps.json
+C:\Users\Formation\source\repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\bin\Debug\net7.0\JPI-TPMoyenne.runtimeconfig.json
+C:\Users\Formation\Source\Repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\bin\Debug\net7.0\JPI-TPMoyenne.dll
+C:\Users\Formation\Source\Repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\bin\Debug\net7.0\JPI-TPMoyenne.pdb
+C:\Users\Formation\Source\Repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\obj\Debug\net7.0\JPI-TPMoyenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formation\Source\Repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\obj\Debug\net7.0\JPI-TPMoyenne.AssemblyInfoInputs.cache
+C:\Users\Formation\Source\Repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\obj\Debug\net7.0\JPI-TPMoyenne.AssemblyInfo.cs
+C:\Users\Formation\Source\Repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\obj\Debug\net7.0\JPI-TPMoyenne.csproj.CoreCompileInputs.cache
+C:\Users\Formation\Source\Repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\obj\Debug\net7.0\JPI-TPMoyenne.dll
+C:\Users\Formation\Source\Repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\obj\Debug\net7.0\refint\JPI-TPMoyenne.dll
+C:\Users\Formation\Source\Repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\obj\Debug\net7.0\JPI-TPMoyenne.pdb
+C:\Users\Formation\source\repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\obj\Debug\net7.0\JPI-TPMoyenne.genruntimeconfig.cache
+C:\Users\Formation\source\repos\JordanPierre91630\HNI-TPmoyennes\JPI-TPMoyenne\obj\Debug\net7.0\ref\JPI-TPMoyenne.dll
